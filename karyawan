@@ -1,0 +1,14 @@
+{
+"karyawan": [
+{"kar_id":1,"nama":"Joby Radclyffe","alamat":"Poland","no_hp":"831-371-9973","tgl_lahir":"10/31/2022","jabatan":"Programmer IV"},
+{"kar_id":2,"nama":"Adelbert Morcombe","alamat":"Greece","no_hp":"728-576-1693","tgl_lahir":"6/30/2022","jabatan":"Automation Specialist II"},
+{"kar_id":3,"nama":"Pansy Hanney","alamat":"Indonesia","no_hp":"934-553-0588","tgl_lahir":"1/17/2023","jabatan":"Web Designer I"},
+{"kar_id":4,"nama":"Shina Crotty","alamat":"Kazakhstan","no_hp":"316-275-8485","tgl_lahir":"10/14/2022","jabatan":"Staff Accountant IV"},
+{"kar_id":5,"nama":"Josey Northridge","alamat":"Brazil","no_hp":"479-869-6555","tgl_lahir":"5/27/2022","jabatan":"Office Assistant IV"},
+{"kar_id":6,"nama":"Nilson Eberts","alamat":"Kenya","no_hp":"598-937-1985","tgl_lahir":"7/31/2022","jabatan":"Occupational Therapist"},
+{"kar_id":7,"nama":"Modesty Girt","alamat":"Indonesia","no_hp":"712-731-9723","tgl_lahir":"2/7/2023","jabatan":"Compensation Analyst"},
+{"kar_id":8,"nama":"Merv Tann","alamat":"Belarus","no_hp":"154-902-6937","tgl_lahir":"8/14/2022","jabatan":"Teacher"},
+{"kar_id":9,"nama":"Zaneta Penhaleurack","alamat":"Mexico","no_hp":"376-987-5111","tgl_lahir":"1/15/2023","jabatan":"Health Coach III"},
+{"kar_id":10,"nama":"Gypsy Greenacre","alamat":"Poland","no_hp":"836-511-0437","tgl_lahir":"1/12/2023","jabatan":"Teacher"}
+]
+}
